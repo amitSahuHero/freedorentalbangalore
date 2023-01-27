@@ -1,0 +1,133 @@
+/* Start Responsive */
+@media (max-width: 767px){
+	.ftr-form {
+		width: 90%;
+		right: 6px;
+		padding: 20px;
+		margin: 20px 18px;
+		position: inherit;
+		background: #2b2b2b;
+		position: inherit;
+	}
+	.hidden-xs {
+		display: block !important;
+		margin-bottom: 20px;
+		padding-top: 15px;
+	}
+	.bg-bann h4 {
+		font-size: 10px;
+		margin-top: 0;
+	}
+
+
+	.ban-text h5 {
+		font-size: 9px;
+	}
+	.bg-bann p {
+		font-size: 8px;
+		margin-bottom: 10px;
+		width: 60%;
+		margin-top: 8px;
+	}
+	.ts-info h3 {
+		font-size: 12px;
+	}
+.carousel-caption.d-none.d-md-block.ban-text {
+	left: 6%;
+	padding-bottom: 0;
+	top: 2%;
+}
+	.book-an {
+		padding: 8px !important;
+		font-size: 12px;
+	}
+	.about-info h3 {
+		font-size: 18px;
+		margin-bottom: 20px;
+	}
+	
+	.dropdown-menu.gallery.mega {
+		width: auto;
+	}
+	.list li {
+		width: 100%;
+	}
+	#navbar-primary-collapse {
+		margin: 0;
+	}
+
+	
+.dropdown-menu > li > a {
+    padding: 7px;
+    font-size: 11px;
+}
+.navbar-default .navbar-nav > li > a {
+	font-size: 14px;
+	padding: 6px 18px;
+}
+.cbp-hsmenu .chat {
+    font-size: 14px;
+    text-align: center;
+    margin-right: 0;
+}
+.cbp-hsmenu > li {
+    display: flex;
+    /* float: inherit; */
+    justify-content: center;
+}
+.cbp-hsinner {
+    float: left;
+     margin-right:0;
+    text-align: center;
+    width: 100%;
+}
+ul.cbp-hsmenu {
+	padding: 0;
+	padding-top: 10px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+}
+.about-info h4 {
+    font-size: 22px;
+}
+.fa.fa-angle-left.prevarr.slick-arrow {
+	top: 38%;
+	left: 0px;
+}
+.fa.fa-angle-right.nextarr.slick-arrow {
+	top: 38%;
+	right: 0px;
+}
+.hdnhg h2 {
+    font-size: 20px;
+}
+.top-title h3, .trt-h2 {
+    font-size: 25px;
+}
+.modal-dialog {
+    width: 92% !important;
+}
+.ts7 {
+    margin-top: 50px;
+}
+.testimonial_para {
+    height: 100px;
+}
+.footer-top_content h3 {
+    font-size: 18px !important;
+}
+.ch-content h4 {
+	min-height: auto;
+}
+.gi-img img {
+	width: 30%;
+}
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+	
+}
+/* End Responsive */
