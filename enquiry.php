@@ -21,7 +21,7 @@ if ($action_type == "getquotes") {
 		$mail->Host = 'smtpout.secureserver.net';
 		$mail->SMTPAuth = true;
 		$mail->Username = 'contact@freedo.rentals';
-		$mail->Password = 'Welcome@123';
+		$mail->Password = 'Welcome@1234';
 		$mail->SMTPSecure = 'tls';
 		$mail->Port = 587;
 
